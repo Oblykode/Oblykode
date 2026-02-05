@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Anil Tamang<br><br>Aspiring ethical hacker & cybersecurity learner<br><br>Currently leveling up in:<br>- Linux & Windows enumeration / privilege escalation<br>- Active Directory attacks & defenses<br>- Python scripting for security & automation<br><br>My learning style:<br>- Do → Break → Fix → Write about it → Repeat<br>- Lots of TryHackMe, Hack The Box, CTFs & vulnerable labs<br>- Writing detailed walkthroughs to solidify knowledge<br><br>Future plans:<br>- First bug bounty submissions<br>- Practical certs (eJPT, PNPT, CRTP, OSCP track)<br>- Build & open-source small security tools<br><br>If you have tips, cool labs, writeup feedback, or just want to talk security,I'm all ears!
 
 
