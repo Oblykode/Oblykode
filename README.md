@@ -1,6 +1,6 @@
 # Anil Tamang
 
-### Cybersecurity Student | Ethical Hacking Enthusiast | Web Developer
+### Cybersecurity | Ethical Hacking Enthusiast | Web Developer
 
 I am a cybersecurity student focused on practical offensive security, system security, secure software development, and modern web application development.
 
